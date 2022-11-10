@@ -4,6 +4,7 @@
 
 ## FWA0001 v1.7 - Beta Release using SEEED XIA RP2040
  > ### tag - [v1.7-beta](https://github.com/KOV-IPC-MECH-1/FWA-Releases-IPC/blob/main/FWA0001_R1.7.zip)
+ > #### [Link](https://github.com/KOV-IPC-MECH-1/FWA0001_LED-CONTROLLER-FOR-OMNI-RDS_USING-SEEED-XIA-RP2040) to private repository for project files and source code.
 
 
 1.   Unzip firmware.uf2 file.  
