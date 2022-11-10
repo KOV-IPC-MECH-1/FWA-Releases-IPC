@@ -1,9 +1,9 @@
 # FWA-Releases-IPC
 
-## tag - v1.7-beta
 
-### v1.7 - Beta Release using SEEED XIA RP2040
 
+## FWA0001 v1.7 - Beta Release using SEEED XIA RP2040
+ > ### tag - v1.7-beta
 
 
 1.   Unzip firmware.uf2 file.  
