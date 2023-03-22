@@ -13,7 +13,7 @@
 
 2.  Enter Bootloader Mode.  
 
- -  Hold "BOOT" button while connecting board to computer.   
+ -  Hold "BOOT" button while connecting board to computer (USB-C cable plugged into USB-C port on SEED XIA RP2040).   
   :arrow_right: The board then will mount as a disk driver ("RP1-RP2").  
  
 3.  Drag-n-Drop (Copy/Paste) the .uf2 file onto the disk driver ("RP1-RP2") to flash firmware.
